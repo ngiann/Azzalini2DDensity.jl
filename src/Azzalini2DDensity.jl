@@ -1,5 +1,7 @@
 module Azzalini2DDensity
 
-# Write your package code here.
+    using Distributions, LinearAlgebra
+
+    include("flexibleDensity2D.jl")
 
 end
