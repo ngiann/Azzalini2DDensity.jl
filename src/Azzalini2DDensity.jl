@@ -4,4 +4,6 @@ module Azzalini2DDensity
 
     include("flexibleDensity2D.jl")
 
+    export flexibleDensity2D
+
 end
